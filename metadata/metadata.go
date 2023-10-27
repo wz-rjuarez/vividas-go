@@ -9,7 +9,7 @@ type ManagerInterface interface {
 type Manager struct{}
 
 func (m *Manager) Sample() {
-	fmt.Println("Good!!")
+	fmt.Println("Good!!!")
 }
 
 func GetManager() *Manager {
