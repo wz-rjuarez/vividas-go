@@ -1,6 +1,6 @@
 module github.com/wz-rjuarez/vividas-go
 
-go 1.21.1
+go 1.19
 
 require (
 	github.com/google/uuid v1.4.0
